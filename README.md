@@ -20,7 +20,7 @@ It will keep Kiwi's WASD-first modal editing and keyboard-driven workflow while 
 - Expanded theming
 - Mouse support
 
-## Kiwi and Kiv
+## Kiwi and Kivi
 
 Kivi is not replacing Kiwi.
 
